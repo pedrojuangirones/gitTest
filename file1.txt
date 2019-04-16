@@ -1,1 +1,6 @@
 "# gitTest in B2FI" 
+
+THe first part I create in Master
+I introduce change for New Fix
+The second part that I create in Master
+
